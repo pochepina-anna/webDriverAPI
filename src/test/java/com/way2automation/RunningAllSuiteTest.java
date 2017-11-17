@@ -9,7 +9,8 @@ import org.junit.runners.Suite;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
-        CursorTest.class
+        CursorTest.class,
+        DragnDropTest.class
 })
 public class RunningAllSuiteTest {
 
