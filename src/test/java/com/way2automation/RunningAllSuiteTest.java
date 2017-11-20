@@ -10,7 +10,8 @@ import org.junit.runners.Suite;
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
         CursorTest.class,
-        DragnDropTest.class
+        DragnDropTest.class,
+        AlertTest.class
 })
 public class RunningAllSuiteTest {
 
