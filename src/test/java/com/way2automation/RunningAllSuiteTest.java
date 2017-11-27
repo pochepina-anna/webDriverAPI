@@ -11,7 +11,8 @@ import org.junit.runners.Suite;
 @Suite.SuiteClasses({
         CursorTest.class,
         DragnDropTest.class,
-        AlertTest.class
+        AlertTest.class,
+        FramesTest.class
 })
 public class RunningAllSuiteTest {
 
